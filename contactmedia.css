@@ -1,0 +1,334 @@
+@media only screen and (max-width: 1596px) {
+    .circle-img {
+        width: 260px;
+        height: 260px;
+    }
+
+    .contact-container {
+        right: 20%;
+    }
+
+    .left-text-rotated {
+        display: none;
+    }
+
+    .inbox {
+        display: none;
+    }
+}
+
+@media only screen and (max-width: 1292px) {
+    .contact-container {
+        right: 10%;
+    }
+}
+
+@media only screen and (max-width: 1180px) {
+    .contact-container {
+        position: absolute;
+        top: 20%;
+        left: 10%;
+    }
+
+    .main-container {
+        height: 170vh;
+    }
+
+    .contact-container-box {
+        position: absolute;
+        top: 60%;
+        width: 80%;
+        left: 10%;
+    }
+
+    .left-card {
+        position: absolute;
+        top: 5%;
+        width: 80%;
+        left: 10%;
+    }
+}
+
+@media only screen and (max-width: 620px) {
+    .left-card {
+        height: 80vh;
+    }
+
+    .contact-container-box {
+        position: absolute;
+        top: 55%;
+        height: 70vh;
+    }
+
+    .contact-container {
+        top: 10%;
+    }
+}
+
+@media only screen and (max-width: 569px) {
+    .left-card {
+        height: 80vh;
+        position: absolute;
+        left: 10%;
+    }
+
+    .contact-container-box {
+        position: absolute;
+        top: 55%;
+        height: 70vh;
+        left: 10%;
+    }
+
+    .contact-container {
+        top: 10%;
+        position: absolute;
+        left: 10%;
+    }
+}
+
+@media only screen and (max-width: 481px) {
+    .left-card {
+        height: 80vh;
+        position: absolute;
+        left: 11%;
+    }
+
+    .contact-container-box {
+        position: absolute;
+        top: 55%;
+        height: 77vh;
+        left: 11%;
+    }
+
+    .contact-container {
+        top: 10%;
+        position: absolute;
+        left: 11%;
+    }
+}
+
+@media only screen and (max-width: 423px) {
+    .left-card {
+        height: 80vh;
+        position: absolute;
+        left: 0%;
+    }
+
+    .contact-container-box {
+        position: absolute;
+        top: 55%;
+        height: 82vh;
+        left: 0%;
+    }
+
+    .contact-container {
+        top: 10%;
+        position: absolute;
+        left: 14%;
+    }
+
+    .circle-img {
+        width: 200px;
+        height: 200px;
+    }
+}
+
+@media only screen and (max-width: 465px) {
+    .left-card {
+        height: 80vh;
+        position: absolute;
+        width: 90%;
+        left: 21%;
+    }
+
+    .contact-container-box {
+        position: absolute;
+        top: 55%;
+        height: 82vh;
+        width: 90%;
+        left: 21%;
+    }
+
+    .contact-container {
+        top: 10%;
+        position: absolute;
+        left: 16%;
+    }
+
+    .circle-img {
+        width: 200px;
+        height: 200px;
+    }
+}
+
+@media only screen and (max-width: 500px) {
+    .left-card {
+        height: 80vh;
+        position: absolute;
+        width: 100%;
+        left: 15%;
+    }
+
+    .contact-container-box {
+        position: absolute;
+        top: 55%;
+        height: 90vh;
+        width: 100%;
+        left: 15%;
+    }
+
+    .contact-container {
+        top: 15%;
+        position: absolute;
+        width: 80%;
+        left: 10%;
+    }
+
+    .circle-img {
+        width: 200px;
+        height: 200px;
+    }
+}
+
+@media only screen and (max-width: 543px) {
+    .left-card {
+        height: 80vh;
+        position: absolute;
+        width: 82%;
+        left: 15%;
+    }
+
+    .contact-container-box {
+        position: absolute;
+        top: 55%;
+        height: 90vh;
+        width: 82%;
+        left: 15%;
+    }
+
+    .contact-container {
+        top: 17%;
+        position: absolute;
+        width: 80%;
+        left: 10%;
+    }
+
+    .circle-img {
+        width: 200px;
+        height: 200px;
+    }
+}
+
+@media only screen and (max-width: 344px) {
+    .left-card {
+        height: 80vh;
+        position: absolute;
+        width: 82%;
+        left: 40%;
+    }
+
+    .contact-container-box {
+        position: absolute;
+        top: 55%;
+        height: 90vh;
+        width: 82%;
+        left: 40%;
+    }
+
+}
+
+@media only screen and (max-width: 449px) {
+    .left-card {
+        height: 80vh;
+        position: absolute;
+        width: 82%;
+        left: 46%;
+    }
+
+    .contact-container-box {
+        position: absolute;
+        top: 55%;
+        height: 90vh;
+        width: 82%;
+        left: 46%;
+    }
+
+}
+
+@media only screen and (max-width: 493px) {
+    .left-card {
+        height: 80vh;
+        position: absolute;
+        width: 82%;
+        left: 40%;
+    }
+
+    .contact-container-box {
+        position: absolute;
+        top: 55%;
+        height: 90vh;
+        width: 82%;
+        left: 40%;
+    }
+
+}
+
+@media only screen and (max-width: 377px) {
+    .left-card {
+        height: 80vh;
+        position: absolute;
+        width: 100%;
+        left: 35%;
+    }
+
+    .contact-container-box {
+        position: absolute;
+        top: 55%;
+        height: 100vh;
+        width: 100%;
+        left: 35%;
+    }
+}
+
+@media only screen and (max-height: 852px) {
+    .contact-container {
+        top: 10%;
+        position: absolute;
+    }
+
+    .left-card {
+        position: absolute;
+        top: 1%;
+    }
+}
+
+@media only screen and (max-height: 784px) {
+    .contact-container {
+        top: 5%;
+        position: absolute;
+    }
+}
+
+@media only screen and (max-height: 736px) {
+    .contact-container {
+        top: 2%;
+        position: absolute;
+    }
+}
+
+@media only screen and (max-height: 887px) {
+    .main-container {
+        height: 200vh;
+    }
+
+    .left-card {
+        height: 100vh;
+    }
+}
+
+@media only screen and (max-height: 700px) {
+    .contact-container {
+        top: 1%;
+        position: absolute;
+    }
+}

@@ -1,0 +1,113 @@
+@media screen and (max-width: 1603px) {
+    .circle-img {
+        width: 250px;
+        height: 250px;
+    }
+}
+
+@media screen and (max-width: 1291px) {
+    .about-inner-text {
+        top: 10%;
+    }
+}
+
+@media screen and (max-width: 1067px) {
+    .left-text-rotated {
+        display: none;
+    }
+}
+
+@media screen and (max-width: 1280px) {
+    .left-card {
+        width: 80%;
+        position: absolute;
+        left: 10%;
+    }
+}
+
+@media screen and (max-width: 1280px) {
+    .about-left {
+        position: absolute;
+        top: 100%;
+    }
+
+    .about-left {
+        width: 80%;
+        position: absolute;
+        left: 10%;
+    }
+}
+
+@media screen and (max-width: 1755px) {
+    .inbox {
+        display: none;
+    }
+
+    .left-text-rotated {
+        display: none;
+    }
+}
+
+@media screen and (max-width: 787px) {
+    .about-inner-text {
+        font-size: 23px;
+    }
+}
+
+@media screen and (max-height: 807px) {
+    .about-inner-text {
+        font-size: 20px;
+    }
+}
+
+@media screen and (max-width: 503px) {
+    .left-card {
+        position: absolute;
+        left: 30%;
+    }
+
+    .about-left {
+        position: absolute;
+        left: 30%;
+    }
+}
+
+@media screen and (max-width: 421px) {
+    .left-card {
+        position: absolute;
+        height: 100vh;
+        width: 100%;
+        left: 30%;
+    }
+
+    .about-left {
+        position: absolute;
+        top: 110%;
+        height: 100vh;
+        width: 100%;
+        left: 30%;
+    }
+}
+
+@media screen and (max-width: 1519px) {
+    .about-inner-text {
+        top: 10%;
+    }
+}
+
+@media screen and (max-height: 787px) {
+    .left-card {
+        position: absolute;
+        height: 110vh;
+        width: 100%;
+        left: 30%;
+    }
+
+    .about-left {
+        position: absolute;
+        top: 130%;
+        height: 100vh;
+        width: 100%;
+        left: 30%;
+    }
+}
