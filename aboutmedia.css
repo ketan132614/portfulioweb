@@ -4,7 +4,7 @@
         height: 250px;
     }
 }
-
+   
 @media screen and (max-width: 1291px) {
     .about-inner-text {       
         top: 10%;
